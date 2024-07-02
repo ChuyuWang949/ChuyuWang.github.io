@@ -830,7 +830,7 @@ int main(){
 ```
 
 示例代码：采用的分表，并且利用周期的性质进行访问，更简洁高效
-
+{% raw %}
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -851,6 +851,7 @@ int main()
     return 0;
 }
 ```
+{% endraw %}
 
 ### 洛谷P1518抓牛——判断死循环
 

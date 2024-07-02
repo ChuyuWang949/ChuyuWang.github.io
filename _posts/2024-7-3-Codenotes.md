@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "数据结构刷题笔记"
-date:   2024-7-3
+date:   2024-07-03
 tags: [数据结构刷题]
 comments: true
 author: cybro
@@ -34,8 +34,6 @@ printf("$c%c%c%c%c\n",c,c,c,c,c);
 ### 为什么
 
 scanf/printf 相比 cin/cout 快得多，应对多数题目绰绰有余。
-
-![image-20240322165536927](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240322165536927.png)
 
 ```cpp
 #include <cstdio>

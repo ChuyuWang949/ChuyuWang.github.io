@@ -19,6 +19,8 @@ https://blog.csdn.net/u011630575/article/details/79721024
 
 **加入输入是一行 没告诉你有多少个数字可以用**
 
+<!-- more -->
+
 ```cpp
 while(cin>>a[i++]);
 ```

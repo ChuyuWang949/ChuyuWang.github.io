@@ -246,7 +246,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: Thoughts
+      type: thoughts
     values:
       layout: single
       author_profile: true

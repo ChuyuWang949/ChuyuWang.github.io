@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage              "
-title_separator          : "-"
+title                    : "Chuyu Wang | Homepage"
+title_separator          : "|"
 name                     : &name "Chuyu Wang"
 description              : &description "Here is Chuyu's personal website"
 url                      : https://chuyuwang949.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

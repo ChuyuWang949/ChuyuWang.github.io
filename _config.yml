@@ -200,16 +200,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  thoughts:
     output: true
     permalink: /:collection/:path/
 
@@ -243,7 +237,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _talks
+  # _thoughts
   - scope:
       path: ""
       type: thoughts

@@ -1,7 +1,7 @@
 ---
 title: "做与不做，这是个问题"
 date: 2024-07-18
-permalink: /posts/2024-07-03-operation
+permalink: /posts/2024-07-18-operation
 tags:
   - [髋撞]
 ---

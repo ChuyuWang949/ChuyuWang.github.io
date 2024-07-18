@@ -22,8 +22,8 @@
 
 高考后，踝也没再进一步治疗，不疼了之后，我就开始健身了。我始终再强调左右力线的对称，以及关节的稳定性，没有健康的体态就盲目的锻炼、上重量，无异于在松垮的地基上建大厦。很不幸，经过一通瞎练，我右髋的不适越来越明显，走路也在代偿出现问题。我注意到了这一点，买了书自己学习，但感觉只是骨盆左旋加前倾，始终没往结构性的损伤上想。
 <center class="half">
-    <img src="images/a5315fb3fbebd55f92eeb6fab81d34d.jpg" width="400"/>
-    <img src="images/15a2dfbfa1c213be0f395d9479b4dac.jpg" width="400"/>
+    <img src="../images/a5315fb3fbebd55f92eeb6fab81d34d.jpg" width="400"/>
+    <img src="../images/15a2dfbfa1c213be0f395d9479b4dac.jpg" width="400"/>
 </center>
 
 # 2.现状
@@ -32,7 +32,7 @@
 
 一直以为只是体态问题，倒也没太放在心上。正巧23年暑假有时间，保研结束的很顺利，在老妈的督促下就去医院做了检查，拍了单髋核磁，这点必须表扬一下，深圳的大夫水平一言难尽但做检查是真的快啊！检查结果如下：
 
-![image-20240718231529382](images/image-20240718231529382.png)
+![image-20240718231529382](../images/image-20240718231529382.png)
 
 盂唇撕裂，这髋关节边缘的一块软骨，可以理解为跟半月板类似的东西。拿着结果去找大夫复查，他用了几十秒看完了我的结果，跟我说你这是髋撞。我第一次得知了这个名次，也终于知道了自己的了什么“病”。
 
@@ -68,14 +68,14 @@
 
 关注了我微博的朋友知道，前两个月我下定决心开始减肥了，坚持骑车、跑步、游泳，体重确实下降了，可喜可贺到目前位置我已经瘦了十斤多。但运动量增大，炎症疼痛也开始出现，髋周肌肉的酸胀也让人不适。恰巧这个假期又是很有空，回深圳后，前几天又重新去找了广东片区最有名的大夫看，检查结果如下：
 <center class="half">
-    <img src="images/f661e7d5ec3197399353cbcfa698c41.png" width="350" height="300"/>
-    <img src="images/5971e52a231bb48709df18d2be4023d.png" width="350" height="400"/>
-    <img src="images/27b29d7fb522613405dfd67b9698046.png" width="350" height="400"/>
+    <img src="../images/f661e7d5ec3197399353cbcfa698c41.png" width="350" height="300"/>
+    <img src="../images/5971e52a231bb48709df18d2be4023d.png" width="350" height="400"/>
+    <img src="../images/27b29d7fb522613405dfd67b9698046.png" width="350" height="400"/>
 </center>
 <center class="half">
-    <img src="images/image-20240718234852712.png" width="350"/>
-    <img src="images/image-20240718234917997.png" width="350"/>
-    <img src="images/image-20240718234908157.png" width="350"/>
+    <img src="../images/image-20240718234852712.png" width="350"/>
+    <img src="../images/image-20240718234917997.png" width="350"/>
+    <img src="../images/image-20240718234908157.png" width="350"/>
 </center>
 
 对比去年没有明显的恶化，依然是炎症，明显的盂唇撕裂。找专家大夫看结果，对话如下：

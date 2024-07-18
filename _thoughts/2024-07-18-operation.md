@@ -1,3 +1,10 @@
+---
+title: "髋撞思考"
+date: 2024-07-18
+permalink: /posts/2024-07-03-operation
+tags:
+  - [髋撞]
+---
 <h1 align = "center">
     做与不做，这是个问题
 </h1>
